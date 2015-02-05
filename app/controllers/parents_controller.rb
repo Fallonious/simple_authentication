@@ -17,6 +17,10 @@ class ParentsController < ApplicationController
     @parent = Parent.new
   end
 
+  # def child_class
+  #   @child_class =
+  # end
+
   # GET /parents/1/edit
   def edit
   end
